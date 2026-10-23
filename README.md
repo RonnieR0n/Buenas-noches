@@ -2,7 +2,7 @@
   <head>
     <Meta charset="utf-8" />
     <Meta Name="viewport" content="Width=Device-width" />
-    <Tittle>Miau<
+    <Tittle>Miau
     <Body>
         <h1>Buenas noches </h1>
         <h1>Que descanses bien para mañana</h1>
