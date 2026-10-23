@@ -1,10 +1,8 @@
-
-<!DOCTYPE html>
 <html Lang="en-US">
   <head>
     <Meta charset="utf-8" />
     <Meta Name="viewport" content="Width=Device-width" />
-    <Tittle>Mi pequeña prueba </tittle>
+    <Tittle>Miau</tittle>
     </head>
     <Body>
         <h1>Buenas noches </h1>
